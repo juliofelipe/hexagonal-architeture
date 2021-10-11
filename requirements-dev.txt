@@ -3,6 +3,7 @@ mypy
 flake8-isort
 pep8-naming
 flake8-black
+pytest-mock
 
 
 -r requirements.txt
